@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "sPhbklNfOrWq8pIyS+uqUSLQmeyHieYU48NttYOrj84=",
+  "Source": "SystemMonitorReceiver",
+  "BasePath": "_content/SystemMonitorReceiver",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

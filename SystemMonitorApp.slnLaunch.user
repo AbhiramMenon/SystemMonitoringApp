@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "ConsoleApp\\ConsoleApp.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "SystemMonitorReceiver\\SystemMonitorReceiver.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

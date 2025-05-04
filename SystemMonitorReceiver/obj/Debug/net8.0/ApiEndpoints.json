@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "MonitorController",
+    "Method": "Post",
+    "RelativePath": "api/Monitor",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "Core.Models.SystemMetrics",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MonitorController",
+    "Method": "Get",
+    "RelativePath": "api/Monitor",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

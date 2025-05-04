@@ -1,0 +1,98 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "SystemMonitorReceiver",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Monitor": {
+      "post": {
+        "tags": [
+          "Monitor"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/SystemMetrics"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/SystemMetrics"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/SystemMetrics"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "get": {
+        "tags": [
+          "Monitor"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "DiskMetrics": {
+        "type": "object",
+        "properties": {
+          "usedMB": {
+            "type": "number",
+            "format": "float"
+          },
+          "totalMB": {
+            "type": "number",
+            "format": "float"
+          }
+        },
+        "additionalProperties": false
+      },
+      "MemoryMetrics": {
+        "type": "object",
+        "properties": {
+          "usedMB": {
+            "type": "number",
+            "format": "float"
+          },
+          "totalMB": {
+            "type": "number",
+            "format": "float"
+          }
+        },
+        "additionalProperties": false
+      },
+      "SystemMetrics": {
+        "type": "object",
+        "properties": {
+          "cpuUsagePercent": {
+            "type": "number",
+            "format": "float"
+          },
+          "memory": {
+            "$ref": "#/components/schemas/MemoryMetrics"
+          },
+          "disk": {
+            "$ref": "#/components/schemas/DiskMetrics"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}
