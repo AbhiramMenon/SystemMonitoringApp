@@ -7,16 +7,20 @@
       "RelativeMoniker": "D:0:0:{D542FFB2-1910-46A4-9572-A7DB0D3E6B35}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\plugins\\fileloggerplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F2A6E06-21DE-4E6F-A374-89444CFD7F05}|SystemMonitorReceiver\\SystemMonitorReceiver.csproj|c:\\users\\abhir\\source\\repos\\systemmonitorapp\\systemmonitorreceiver\\controllers\\monitorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F2A6E06-21DE-4E6F-A374-89444CFD7F05}|SystemMonitorReceiver\\SystemMonitorReceiver.csproj|solutionrelative:systemmonitorreceiver\\controllers\\monitorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55FFF26A-B1D3-42E8-948F-B496FD1A54E2}|ConsoleApp\\ConsoleApp.csproj|c:\\users\\abhir\\source\\repos\\systemmonitorapp\\consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55FFF26A-B1D3-42E8-948F-B496FD1A54E2}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D542FFB2-1910-46A4-9572-A7DB0D3E6B35}|Infrastructure\\Infrastructure.csproj|c:\\users\\abhir\\source\\repos\\systemmonitorapp\\infrastructure\\services\\windowssystemmetricsprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D542FFB2-1910-46A4-9572-A7DB0D3E6B35}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\windowssystemmetricsprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6724387D-009F-4A85-839C-22E1BA560450}|MonitoringApp.Tests\\MonitoringApp.Tests.csproj|c:\\users\\abhir\\source\\repos\\systemmonitorapp\\monitoringapp.tests\\monitoringservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6724387D-009F-4A85-839C-22E1BA560450}|MonitoringApp.Tests\\MonitoringApp.Tests.csproj|solutionrelative:monitoringapp.tests\\monitoringservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D542FFB2-1910-46A4-9572-A7DB0D3E6B35}|Infrastructure\\Infrastructure.csproj|c:\\users\\abhir\\source\\repos\\systemmonitorapp\\infrastructure\\services\\windowssystemmetricsprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D542FFB2-1910-46A4-9572-A7DB0D3E6B35}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\windowssystemmetricsprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6F2A6E06-21DE-4E6F-A374-89444CFD7F05}|SystemMonitorReceiver\\SystemMonitorReceiver.csproj|c:\\users\\abhir\\source\\repos\\systemmonitorapp\\systemmonitorreceiver\\controllers\\monitorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F2A6E06-21DE-4E6F-A374-89444CFD7F05}|SystemMonitorReceiver\\SystemMonitorReceiver.csproj|solutionrelative:systemmonitorreceiver\\controllers\\monitorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D542FFB2-1910-46A4-9572-A7DB0D3E6B35}|Infrastructure\\Infrastructure.csproj|c:\\users\\abhir\\source\\repos\\systemmonitorapp\\infrastructure\\plugins\\slackalertplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -45,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8A6B6B59-BCE8-4CDA-80EF-E173C30972F6}|Core\\Core.csproj|c:\\users\\abhir\\source\\repos\\systemmonitorapp\\core\\events\\metricsupdatedeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A6B6B59-BCE8-4CDA-80EF-E173C30972F6}|Core\\Core.csproj|solutionrelative:core\\events\\metricsupdatedeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55FFF26A-B1D3-42E8-948F-B496FD1A54E2}|ConsoleApp\\ConsoleApp.csproj|c:\\users\\abhir\\source\\repos\\systemmonitorapp\\consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55FFF26A-B1D3-42E8-948F-B496FD1A54E2}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A0D32413-359F-472E-8F5E-F3173B7CA380}|Application\\Application.csproj|c:\\users\\abhir\\source\\repos\\systemmonitorapp\\application\\services\\monitoringservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -98,7 +98,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\abhir\\source\\repos\\SystemMonitorApp\\ConsoleApp\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp\\Program.cs",
@@ -107,12 +107,11 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-02T15:00:34.905Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "WindowsSystemMetricsProvider.cs",
               "DocumentMoniker": "C:\\Users\\abhir\\source\\repos\\SystemMonitorApp\\Infrastructure\\Services\\WindowsSystemMetricsProvider.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Services\\WindowsSystemMetricsProvider.cs",
@@ -120,12 +119,11 @@
               "RelativeToolTip": "Infrastructure\\Services\\WindowsSystemMetricsProvider.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAHgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T15:28:51.36Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-02T15:28:51.36Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MonitoringServiceTests.cs",
               "DocumentMoniker": "C:\\Users\\abhir\\source\\repos\\SystemMonitorApp\\MonitoringApp.Tests\\MonitoringServiceTests.cs",
               "RelativeDocumentMoniker": "MonitoringApp.Tests\\MonitoringServiceTests.cs",
@@ -133,12 +131,11 @@
               "RelativeToolTip": "MonitoringApp.Tests\\MonitoringServiceTests.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAQwCoAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T06:55:10.256Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-04T06:55:10.256Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "MonitorController.cs",
               "DocumentMoniker": "C:\\Users\\abhir\\source\\repos\\SystemMonitorApp\\SystemMonitorReceiver\\Controllers\\MonitorController.cs",
               "RelativeDocumentMoniker": "SystemMonitorReceiver\\Controllers\\MonitorController.cs",
@@ -146,8 +143,7 @@
               "RelativeToolTip": "SystemMonitorReceiver\\Controllers\\MonitorController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T07:29:45.601Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-03T07:29:45.601Z"
             },
             {
               "$type": "Document",
@@ -163,12 +159,8 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "SlackAlertPlugin.cs",
               "DocumentMoniker": "C:\\Users\\abhir\\source\\repos\\SystemMonitorApp\\Infrastructure\\Plugins\\SlackAlertPlugin.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Plugins\\SlackAlertPlugin.cs",
@@ -176,12 +168,11 @@
               "RelativeToolTip": "Infrastructure\\Plugins\\SlackAlertPlugin.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T19:35:08.161Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-03T19:35:08.161Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ConsoleLoggerPlugin.cs",
               "DocumentMoniker": "C:\\Users\\abhir\\source\\repos\\SystemMonitorApp\\Infrastructure\\Plugins\\ConsoleLoggerPlugin.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Plugins\\ConsoleLoggerPlugin.cs",
@@ -189,12 +180,11 @@
               "RelativeToolTip": "Infrastructure\\Plugins\\ConsoleLoggerPlugin.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T04:57:01.455Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-03T04:57:01.455Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "ApiMonitorPlugin.cs",
               "DocumentMoniker": "C:\\Users\\abhir\\source\\repos\\SystemMonitorApp\\Infrastructure\\Plugins\\ApiMonitorPlugin.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Plugins\\ApiMonitorPlugin.cs",
@@ -202,12 +192,11 @@
               "RelativeToolTip": "Infrastructure\\Plugins\\ApiMonitorPlugin.cs",
               "ViewState": "AgIAACQAAAAAAAAAAAAYwC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T05:50:42.293Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-03T05:50:42.293Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "ISystemMetricsProvider.cs",
               "DocumentMoniker": "C:\\Users\\abhir\\source\\repos\\SystemMonitorApp\\Core\\Interfaces\\ISystemMetricsProvider.cs",
               "RelativeDocumentMoniker": "Core\\Interfaces\\ISystemMetricsProvider.cs",
@@ -215,12 +204,11 @@
               "RelativeToolTip": "Core\\Interfaces\\ISystemMetricsProvider.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T15:05:10.511Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-02T15:05:10.511Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "IMonitoringService.cs",
               "DocumentMoniker": "C:\\Users\\abhir\\source\\repos\\SystemMonitorApp\\Core\\Interfaces\\IMonitoringService.cs",
               "RelativeDocumentMoniker": "Core\\Interfaces\\IMonitoringService.cs",
@@ -228,12 +216,11 @@
               "RelativeToolTip": "Core\\Interfaces\\IMonitoringService.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAgwAwAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T15:05:02.813Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-02T15:05:02.813Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "IMonitorPlugin.cs",
               "DocumentMoniker": "C:\\Users\\abhir\\source\\repos\\SystemMonitorApp\\Core\\Interfaces\\IMonitorPlugin.cs",
               "RelativeDocumentMoniker": "Core\\Interfaces\\IMonitorPlugin.cs",
@@ -241,12 +228,11 @@
               "RelativeToolTip": "Core\\Interfaces\\IMonitorPlugin.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T15:05:21.53Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-02T15:05:21.53Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "MetricsUpdatedEventArgs.cs",
               "DocumentMoniker": "C:\\Users\\abhir\\source\\repos\\SystemMonitorApp\\Core\\Events\\MetricsUpdatedEventArgs.cs",
               "RelativeDocumentMoniker": "Core\\Events\\MetricsUpdatedEventArgs.cs",
@@ -254,8 +240,7 @@
               "RelativeToolTip": "Core\\Events\\MetricsUpdatedEventArgs.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T05:47:21.968Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-04T05:47:21.968Z"
             },
             {
               "$type": "Document",
@@ -267,21 +252,19 @@
               "RelativeToolTip": "Application\\Services\\MonitoringService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T15:27:45.45Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-02T15:27:45.45Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "MonitoringApp.Tests",
+              "Title": "MonitoringApp.Tests.csproj",
               "DocumentMoniker": "C:\\Users\\abhir\\source\\repos\\SystemMonitorApp\\MonitoringApp.Tests\\MonitoringApp.Tests.csproj",
               "RelativeDocumentMoniker": "MonitoringApp.Tests\\MonitoringApp.Tests.csproj",
               "ToolTip": "C:\\Users\\abhir\\source\\repos\\SystemMonitorApp\\MonitoringApp.Tests\\MonitoringApp.Tests.csproj",
               "RelativeToolTip": "MonitoringApp.Tests\\MonitoringApp.Tests.csproj",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-04T07:03:59.873Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-04T07:03:59.873Z"
             },
             {
               "$type": "Document",
@@ -293,8 +276,7 @@
               "RelativeToolTip": "Core\\Models\\SystemMetrics.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T15:05:33.016Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-02T15:05:33.016Z"
             },
             {
               "$type": "Document",
@@ -306,8 +288,7 @@
               "RelativeToolTip": "Application\\Application.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-03T07:15:02.04Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-03T07:15:02.04Z"
             },
             {
               "$type": "Document",
@@ -367,6 +348,10 @@
               "RelativeToolTip": "ConsoleApp\\ConsoleApp.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-05-02T17:13:29.345Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
